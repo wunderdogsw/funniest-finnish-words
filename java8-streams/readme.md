@@ -9,15 +9,9 @@ Prerequisites
 -------------
 - To run this code you need Java 8 and Gradle installed on your machine.
 
-```
-$ sudo brew cask install java
-$ sudo brew cask install gradle
-```
-
 Running the code
 ----------------
 
-```
 - Print out funniest words from src/test/resources/alastalon_salissa.txt.
 
 ```

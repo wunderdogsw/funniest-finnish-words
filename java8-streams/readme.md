@@ -16,10 +16,7 @@ $ sudo brew cask install gradle
 
 Running the code
 ----------------
-- Clone repo from GitHub
 
-```
-$ git clone https://github.com/vkomulai/wunderdog-funny-finnish-words-java8.git
 ```
 - Print out funniest words from src/test/resources/alastalon_salissa.txt.
 

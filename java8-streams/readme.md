@@ -2,7 +2,7 @@ Description
 -----------
 - This little project solves Wunderdog's coding puzzle http://wunderdog.fi/koodaus-hassuimmat-sanat/.
 - Goal is to resolve funniest Finnish words from novel "Alastalon Salissa" by Volter Kilpi.
-- Implementation optimizes LOC and readability. Not performance, testability or reliablity.
+- Implementation optimizes LOC and readability. Not performance, testability or reliability.
 - Also, I wanted to check how we can mix functional programming style with Java in solving this.
 
 Prerequisites
@@ -15,7 +15,7 @@ Running the code
 - Print out funniest words from src/test/resources/alastalon_salissa.txt.
 
 ```
-$ cd wunderdog-funny-finnish-words-java8
+$ cd java8-streams
 $ gradle run
 :compileJava UP-TO-DATE
 :processResources UP-TO-DATE

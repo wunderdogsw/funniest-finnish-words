@@ -1,0 +1,14 @@
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.idea/
+alastalon_salissa.txt
+alastalo.txt
+0460.*
+*.iml

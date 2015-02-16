@@ -80,7 +80,7 @@ public class FunninessCounter {
   }
 
   public static void main(String[] args) {
-    FunninessCounter counter = new FunninessCounter("alastalo.txt");
+    FunninessCounter counter = new FunninessCounter("alastalon_salissa.txt");
     counter.findFunniestWord();
     counter.printResults();
   }

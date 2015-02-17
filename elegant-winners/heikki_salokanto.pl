@@ -1,5 +1,5 @@
 #!/usr/bin/perl -W
-# author: Heikki Salokanto, 2015
+# author: Heikki Salokanto, Wunderdog coding puzzle #1, 2015
 use strict;
 use utf8;
 use open qw(:std :utf8);

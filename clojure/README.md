@@ -12,6 +12,10 @@ Downloads the file, and runs the program.
 
 Runs the program with the filename given as input.
 
+    $ lein midje
+
+Runs tests.
+
 ## License
 
 Copyright © 2015 Wunderdog Oy
